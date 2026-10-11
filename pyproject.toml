@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "atos-tolerance-study"
+version = "0.1.0"
+description = "Parametric eccentric adjustment and aerodynamic sensitivity study"
+requires-python = ">=3.10"
+dependencies = []
+[project.optional-dependencies]
+test = ["pytest>=8"]
+[project.scripts]
+atos = "atos.cli:main"
+[tool.setuptools.packages.find]
+where = ["src"]
