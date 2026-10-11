@@ -1,0 +1,3 @@
+# Design boundaries and assumptions
+
+This repository supports preliminary educational calculations only. It does not establish structural strength, fatigue life, fastener retention, contact stress, material compatibility, manufacturing feasibility, aeroelastic behavior, aircraft handling qualities or airworthiness. Geometry is idealized and excludes clearances, load deflection, tolerance coupling and assembly constraints. Worst-case and RSS stacks are simplified scalar models; real GD&T requires datum and feature-control-frame interpretation. Do not use these scripts to authorize a flight-related modification.
