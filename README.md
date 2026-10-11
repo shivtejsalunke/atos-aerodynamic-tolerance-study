@@ -1,4 +1,4 @@
-# ATOS — Aerodynamic Tolerance Optimization Study
+# ATOS — Aerodynamic Tolerance Optimization System
 
 ATOS is a calculation scaffold for double-eccentric offset geometry, simplified tolerance-stack calculations, and drag-force sensitivity scenarios.
 
